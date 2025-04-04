@@ -2,6 +2,7 @@ package actividades_ets.UT4.diseño_modular;
 
 /**
  * Clase Prisma que representa un prisma de base triangular equilátera
+ * comentario para git hub
  */
 public class Prisma {
     private int base;
